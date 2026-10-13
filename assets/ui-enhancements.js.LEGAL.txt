@@ -1,0 +1,163 @@
+/**
+ * @author: @dorianbaffier
+ * @description: Particle Button
+ * @version: 1.1.0
+ * @date: 2025-06-26
+ * @license: MIT
+ * @website: https://kokonutui.com
+ * @github: https://github.com/kokonut-labs/kokonutui
+ */
+
+Bundled license information:
+
+react/cjs/react.production.js:
+  /**
+   * @license React
+   * react.production.js
+   *
+   * Copyright (c) Meta Platforms, Inc. and affiliates.
+   *
+   * This source code is licensed under the MIT license found in the
+   * LICENSE file in the root directory of this source tree.
+   */
+
+scheduler/cjs/scheduler.production.js:
+  /**
+   * @license React
+   * scheduler.production.js
+   *
+   * Copyright (c) Meta Platforms, Inc. and affiliates.
+   *
+   * This source code is licensed under the MIT license found in the
+   * LICENSE file in the root directory of this source tree.
+   */
+
+react-dom/cjs/react-dom.production.js:
+  /**
+   * @license React
+   * react-dom.production.js
+   *
+   * Copyright (c) Meta Platforms, Inc. and affiliates.
+   *
+   * This source code is licensed under the MIT license found in the
+   * LICENSE file in the root directory of this source tree.
+   */
+
+react-dom/cjs/react-dom-client.production.js:
+  /**
+   * @license React
+   * react-dom-client.production.js
+   *
+   * Copyright (c) Meta Platforms, Inc. and affiliates.
+   *
+   * This source code is licensed under the MIT license found in the
+   * LICENSE file in the root directory of this source tree.
+   */
+
+react/cjs/react-jsx-runtime.production.js:
+  /**
+   * @license React
+   * react-jsx-runtime.production.js
+   *
+   * Copyright (c) Meta Platforms, Inc. and affiliates.
+   *
+   * This source code is licensed under the MIT license found in the
+   * LICENSE file in the root directory of this source tree.
+   */
+
+animejs/dist/modules/core/consts.js:
+animejs/dist/modules/core/globals.js:
+animejs/dist/modules/core/helpers.js:
+animejs/dist/modules/core/transforms.js:
+animejs/dist/modules/core/colors.js:
+animejs/dist/modules/core/values.js:
+animejs/dist/modules/core/render.js:
+animejs/dist/modules/core/styles.js:
+animejs/dist/modules/core/clock.js:
+animejs/dist/modules/core/targets.js:
+animejs/dist/modules/core/units.js:
+  /**
+   * Anime.js - core - ESM
+   * @version v4.2.2
+   * @license MIT
+   * @copyright 2025 - Julian Garnier
+   */
+
+animejs/dist/modules/animation/additive.js:
+animejs/dist/modules/animation/composition.js:
+animejs/dist/modules/animation/animation.js:
+  /**
+   * Anime.js - animation - ESM
+   * @version v4.2.2
+   * @license MIT
+   * @copyright 2025 - Julian Garnier
+   */
+
+animejs/dist/modules/engine/engine.js:
+  /**
+   * Anime.js - engine - ESM
+   * @version v4.2.2
+   * @license MIT
+   * @copyright 2025 - Julian Garnier
+   */
+
+animejs/dist/modules/timer/timer.js:
+  /**
+   * Anime.js - timer - ESM
+   * @version v4.2.2
+   * @license MIT
+   * @copyright 2025 - Julian Garnier
+   */
+
+animejs/dist/modules/easings/none.js:
+animejs/dist/modules/easings/eases/parser.js:
+  /**
+   * Anime.js - easings - ESM
+   * @version v4.2.2
+   * @license MIT
+   * @copyright 2025 - Julian Garnier
+   */
+
+animejs/dist/modules/timeline/position.js:
+  /**
+   * Anime.js - timeline - ESM
+   * @version v4.2.2
+   * @license MIT
+   * @copyright 2025 - Julian Garnier
+   */
+
+animejs/dist/modules/utils/random.js:
+animejs/dist/modules/utils/stagger.js:
+  /**
+   * Anime.js - utils - ESM
+   * @version v4.2.2
+   * @license MIT
+   * @copyright 2025 - Julian Garnier
+   */
+
+animejs/dist/modules/index.js:
+  /**
+   * Anime.js - ESM
+   * @version v4.2.2
+   * @license MIT
+   * @copyright 2025 - Julian Garnier
+   */
+
+lucide-react/dist/esm/shared/src/utils.js:
+lucide-react/dist/esm/defaultAttributes.js:
+lucide-react/dist/esm/Icon.js:
+lucide-react/dist/esm/createLucideIcon.js:
+lucide-react/dist/esm/icons/arrow-up-right.js:
+lucide-react/dist/esm/icons/book-open.js:
+lucide-react/dist/esm/icons/bookmark.js:
+lucide-react/dist/esm/icons/check.js:
+lucide-react/dist/esm/icons/mouse-pointer-click.js:
+lucide-react/dist/esm/icons/search.js:
+lucide-react/dist/esm/icons/x.js:
+lucide-react/dist/esm/lucide-react.js:
+  /**
+   * @license lucide-react v0.468.0 - ISC
+   *
+   * This source code is licensed under the ISC license.
+   * See the LICENSE file in the root directory of this source tree.
+   */
